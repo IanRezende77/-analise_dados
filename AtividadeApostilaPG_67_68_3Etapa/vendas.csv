@@ -1,0 +1,241 @@
+﻿data,loja,produto,categoria,quantidade,preco_unitario
+2025-02-02,Loja Leste,Cafeteira,Eletrodomésticos,7.0,391.34
+2025-06-10,Loja Sul,Smartphone,Eletrônicos,7.0,2247.58
+2025-04-12,Loja Sul,Mouse,Informática,7.0,87.81
+2025-10-04,Loja Sul,Liquidificador,Eletrodomésticos,7.0,214.54
+2025-05-01,Loja Centro,Smart TV,Eletrônicos,8.0,2995.2
+2025-09-02,Loja Sul,Mouse,Informática,2.0,86.97
+2025-10-12,Loja Sul,Fone Bluetooth,Eletrônicos,5.0,241.99
+2025-09-15,Loja Sul,Fone Bluetooth,Eletrônicos,7.0,250.38
+2025-12-25,Loja Centro,Monitor,Informática,4.0,960.82
+2025-05-30,Loja Norte,Cafeteira,Eletrodomésticos,7.0,407.17
+2025-10-09,Loja Sul,Liquidificador,Eletrodomésticos,5.0,228.19
+2025-06-18,Loja Centro,Monitor,Informática,4.0,874.21
+2025-05-14,Loja Leste,Fone Bluetooth,Eletrônicos,7.0,252.95
+2025-09-13,Loja Centro,Fone Bluetooth,Eletrônicos,4.0,229.92
+2025-01-08,Loja Leste,Fone Bluetooth,Eletrônicos,6.0,264.58
+2025-09-20,Loja Centro,Fone Bluetooth,Eletrônicos,3.0,235.27
+2025-10-17,Loja Centro,Monitor,Informática,4.0,838.22
+2025-12-04,Loja Norte,Fone Bluetooth,Eletrônicos,,265.57
+2025-12-15,Loja Norte,Smart TV,Eletrônicos,5.0,2568.01
+2025-07-10,Loja Norte,Mouse,Informática,8.0,78.44
+2025-02-21,Loja Sul,Smart TV,Eletrônicos,9.0,2698.08
+2025-05-16,Loja Norte,Fone Bluetooth,Eletrônicos,11.0,291.94
+2025-05-19,Loja Norte,Notebook,Informática,4.0,3101.9
+2025-12-08,Loja Norte,Cafeteira,Eletrodomésticos,7.0,431.34
+2025-03-05,Loja Centro,Monitor,Informática,6.0,924.61
+2025-02-18,Loja Centro,Liquidificador,Eletrodomésticos,5.0,223.97
+2025-02-18,Loja Norte,Smart TV,Eletrônicos,4.0,2854.32
+2025-08-30,Loja Centro,Cafeteira,Eletrodomésticos,3.0,504.59
+2025-03-02,Loja Sul,Teclado,Informática,4.0,153.51
+2025-12-07,Loja Norte,Tênis,Moda,8.0,337.87
+2025-02-11,Loja Sul,Camiseta,Moda,6.0,86.1
+2025-11-13,Loja Norte,Cafeteira,Eletrodomésticos,4.0,446.12
+2025-08-07,Loja Centro,Mouse,Informática,3.0,83.19
+2025-04-14,Loja Centro,Teclado,Informática,5.0,140.6
+2025-09-26,Loja Leste,Tênis,Moda,3.0,
+2025-11-07,Loja Sul,Smart TV,Eletrônicos,4.0,2550.82
+2025-02-04,Loja Leste,Mouse,Informática,10.0,83.29
+2025-01-19,Loja Norte,Smart TV,Eletrônicos,6.0,2406.49
+2025-03-02,Loja Norte,Cafeteira,Eletrodomésticos,6.0,463.68
+2025-03-26,Loja Sul,Mochila,Moda,9.0,194.25
+2025-01-13,Loja Centro,Cafeteira,Eletrodomésticos,4.0,481.17
+2025-09-11,Loja Sul,Mouse,Informática,10.0,80.44
+2025-07-09,Loja Sul,Teclado,Informática,10.0,122.29
+2025-03-04,Loja Sul,Mouse,Informática,9.0,84.0
+2025-04-25,Loja Centro,Camiseta,Moda,11.0,101.4
+2025-02-23,Loja Norte,Mouse,Informática,6.0,93.9
+2025-09-21,Loja Leste,Fone Bluetooth,Eletrônicos,6.0,211.95
+2025-04-18,Loja Centro,Mochila,Moda,7.0,183.3
+2025-11-12,Loja Centro,Teclado,Informática,6.0,138.68
+2025-03-29,Loja Centro,Notebook,Informática,5.0,3391.86
+2025-12-20,Loja Leste,Mouse,Informática,4.0,94.2
+2025-10-09,Loja Sul,Cafeteira,Eletrodomésticos,5.0,447.0
+2025-07-10,Loja Leste,Liquidificador,Eletrodomésticos,3.0,227.59
+2025-08-12,Loja Norte,Liquidificador,Eletrodomésticos,3.0,210.32
+2025-08-05,Loja Norte,Smart TV,Eletrônicos,7.0,2725.75
+2025-10-14,Loja Norte,Camiseta,Moda,5.0,95.53
+2025-12-12,Loja Norte,Mouse,Informática,6.0,70.9
+2025-04-22,Loja Sul,Monitor,Informática,4.0,876.88
+2025-05-09,Loja Sul,Cafeteira,Eletrodomésticos,8.0,427.5
+2025-09-14,Loja Leste,Liquidificador,Eletrodomésticos,9.0,242.25
+2025-11-14,Loja Leste,Tênis,Moda,4.0,264.58
+2025-01-21,Loja Leste,Notebook,Informática,6.0,2441.08
+2025-07-03,Loja Leste,Notebook,Informática,7.0,3402.45
+2025-12-30,Loja Leste,Smart TV,Eletrônicos,8.0,3114.46
+2025-11-04,Loja Norte,Monitor,Informática,5.0,915.91
+2025-01-30,Loja Leste,Notebook,Informática,6.0,2768.26
+2025-11-03,Loja Leste,Mochila,Moda,6.0,189.54
+2025-08-21,Loja Leste,Mochila,Moda,10.0,167.2
+2025-01-09,Loja Norte,Camiseta,Moda,5.0,90.04
+2025-12-01,Loja Sul,Fone Bluetooth,Eletrônicos,3.0,265.45
+2025-03-04,Loja Sul,Smart TV,Eletrônicos,12.0,2612.41
+2025-08-20,Loja Leste,Cafeteira,Eletrodomésticos,7.0,376.96
+2025-07-05,Loja Leste,Camiseta,Moda,8.0,99.11
+2025-06-28,Loja Norte,Tênis,Moda,3.0,284.35
+2025-12-07,Loja Sul,Tênis,Moda,6.0,345.99
+2025-09-18,Loja Centro,Mochila,Moda,1.0,183.87
+2025-04-06,Loja Sul,Smart TV,Eletrônicos,8.0,2366.15
+2025-01-11,Loja Norte,Smartphone,Eletrônicos,4.0,2188.12
+2025-06-14,Loja Sul,Fone Bluetooth,Eletrônicos,7.0,224.0
+2025-10-22,Loja Centro,Smartphone,Eletrônicos,5.0,2198.66
+2025-07-22,Loja Centro,Monitor,Informática,9.0,827.21
+2025-06-15,Loja Leste,Mochila,Moda,7.0,185.03
+2025-05-07,Loja Leste,Notebook,Informática,11.0,3402.45
+2025-04-14,Loja Norte,Mouse,Informática,,69.69
+2025-09-27,Loja Centro,Monitor,Informática,4.0,1034.59
+2025-01-15,Loja Centro,Notebook,Informática,3.0,2950.15
+2025-06-13,Loja Centro,Camiseta,Moda,3.0,100.33
+2025-04-21,Loja Norte,Mochila,Moda,1.0,176.97
+2025-04-11,Loja Norte,Notebook,Informática,6.0,2816.86
+2025-05-02,Loja Leste,Liquidificador,Eletrodomésticos,4.0,209.4
+2025-11-12,Loja Sul,Teclado,Informática,2.0,143.12
+2025-02-24,Loja Centro,Notebook,Informática,2.0,2785.31
+2025-09-15,Loja Sul,Fone Bluetooth,Eletrônicos,4.0,279.36
+2025-03-30,Loja Sul,Cafeteira,Eletrodomésticos,9.0,389.06
+2025-02-24,Loja Norte,Smart TV,Eletrônicos,5.0,2876.34
+2025-10-19,Loja Sul,Smartphone,Eletrônicos,2.0,1884.99
+2025-11-05,Loja Sul,Monitor,Informática,5.0,866.9
+2025-09-27,Loja Centro,Teclado,Informática,3.0,139.11
+2025-07-21,Loja Leste,Smart TV,Eletrônicos,7.0,2519.93
+2025-08-02,Loja Centro,Monitor,Informática,4.0,1030.5
+2025-11-06,Loja Leste,Mochila,Moda,10.0,177.09
+2025-04-03,Loja Centro,Tênis,Moda,6.0,316.78
+2025-05-12,Loja Leste,Monitor,Informática,8.0,941.06
+2025-03-07,Loja Centro,Liquidificador,Eletrodomésticos,8.0,256.27
+2025-06-07,Loja Sul,Fone Bluetooth,Eletrônicos,9.0,280.16
+2025-01-09,Loja Sul,Camiseta,Moda,5.0,97.56
+2025-04-23,Loja Sul,Notebook,Informática,6.0,3412.74
+2025-05-04,Loja Leste,Teclado,Informática,4.0,128.71
+2025-02-02,Loja Leste,Teclado,Informática,4.0,138.84
+2025-08-27,Loja Norte,Mochila,Moda,7.0,173.79
+2025-06-05,Loja Centro,Tênis,Moda,5.0,336.02
+2025-11-05,Loja Norte,Cafeteira,Eletrodomésticos,7.0,399.09
+2025-05-30,Loja Centro,Teclado,Informática,4.0,144.45
+2025-11-24,Loja Centro,Fone Bluetooth,Eletrônicos,7.0,220.88
+2025-04-19,Loja Centro,Notebook,Informática,8.0,3201.54
+2025-12-10,Loja Centro,Camiseta,Moda,6.0,102.15
+2025-05-19,Loja Centro,Mouse,Informática,6.0,65.07
+2025-12-01,Loja Centro,Tênis,Moda,6.0,343.99
+2025-01-21,Loja Leste,Cafeteira,Eletrodomésticos,7.0,374.14
+2025-08-16,Loja Norte,Monitor,Informática,3.0,928.51
+2025-10-15,Loja Sul,Fone Bluetooth,Eletrônicos,9.0,264.77
+2025-05-24,Loja Centro,Liquidificador,Eletrodomésticos,7.0,
+2025-03-04,Loja Norte,Smartphone,Eletrônicos,9.0,1977.48
+2025-12-12,Loja Sul,Smartphone,Eletrônicos,3.0,2212.57
+2025-02-17,Loja Sul,Liquidificador,Eletrodomésticos,2.0,256.54
+2025-08-30,Loja Centro,Tênis,Moda,5.0,301.65
+2025-04-13,Loja Norte,Monitor,Informática,8.0,1029.46
+2025-09-04,Loja Sul,Camiseta,Moda,3.0,90.99
+2025-09-13,Loja Leste,Camiseta,Moda,8.0,88.47
+2025-08-11,Loja Norte,Mochila,Moda,11.0,181.7
+2025-06-18,Loja Sul,Smartphone,Eletrônicos,5.0,1919.91
+2025-05-30,Loja Norte,Tênis,Moda,5.0,270.5
+2025-04-15,Loja Centro,Camiseta,Moda,6.0,98.29
+2025-02-26,Loja Centro,Monitor,Informática,6.0,904.7
+2025-03-30,Loja Sul,Monitor,Informática,9.0,996.67
+2025-09-08,Loja Centro,Notebook,Informática,10.0,3138.45
+2025-04-08,Loja Centro,Smart TV,Eletrônicos,4.0,2900.87
+2025-11-17,Loja Centro,Notebook,Informática,5.0,3174.8
+2025-01-10,Loja Centro,Notebook,Informática,7.0,3209.53
+2025-11-11,Loja Centro,Smart TV,Eletrônicos,5.0,2803.25
+2025-12-18,Loja Centro,Tênis,Moda,6.0,296.08
+2025-02-01,Loja Centro,Fone Bluetooth,Eletrônicos,8.0,228.65
+2025-01-03,Loja Sul,Liquidificador,Eletrodomésticos,4.0,208.85
+2025-07-21,Loja Norte,Fone Bluetooth,Eletrônicos,7.0,268.68
+2025-03-01,Loja Norte,Fone Bluetooth,Eletrônicos,3.0,231.37
+2025-07-25,Loja Sul,Mochila,Moda,7.0,207.85
+2025-06-23,Loja Sul,Fone Bluetooth,Eletrônicos,4.0,249.89
+2025-03-13,Loja Sul,Teclado,Informática,5.0,165.55
+2025-05-05,Loja Norte,Camiseta,Moda,5.0,81.24
+2025-08-11,Loja Norte,Cafeteira,Eletrodomésticos,7.0,437.6
+2025-01-23,Loja Norte,Fone Bluetooth,Eletrônicos,9.0,243.52
+2025-12-13,Loja Norte,Mouse,Informática,,93.68
+2025-01-12,Loja Sul,Smart TV,Eletrônicos,8.0,3139.76
+2025-05-11,Loja Norte,Fone Bluetooth,Eletrônicos,6.0,249.97
+2025-07-02,Loja Sul,Camiseta,Moda,9.0,106.02
+2025-05-23,Loja Leste,Smartphone,Eletrônicos,3.0,1999.24
+2025-12-08,Loja Sul,Mochila,Moda,5.0,180.87
+2025-07-25,Loja Sul,Tênis,Moda,6.0,300.21
+2025-02-24,Loja Norte,Teclado,Informática,8.0,146.88
+2025-07-15,Loja Sul,Fone Bluetooth,Eletrônicos,7.0,276.74
+2025-03-22,Loja Leste,Notebook,Informática,3.0,3296.27
+2025-04-14,Loja Sul,Fone Bluetooth,Eletrônicos,6.0,280.12
+2025-12-17,Loja Sul,Camiseta,Moda,4.0,101.66
+2025-03-20,Loja Centro,Smartphone,Eletrônicos,8.0,2173.75
+2025-03-16,Loja Sul,Smartphone,Eletrônicos,6.0,2194.46
+2025-12-29,Loja Leste,Mochila,Moda,3.0,186.71
+2025-09-21,Loja Sul,Notebook,Informática,4.0,2756.3
+2025-12-01,Loja Norte,Monitor,Informática,4.0,1044.67
+2025-02-16,Loja Sul,Smart TV,Eletrônicos,12.0,2763.12
+2025-10-30,Loja Norte,Smartphone,Eletrônicos,3.0,2156.52
+2025-09-22,Loja Norte,Teclado,Informática,3.0,119.04
+2025-12-06,Loja Norte,Camiseta,Moda,6.0,93.45
+2025-12-07,Loja Centro,Mouse,Informática,10.0,79.21
+2025-03-13,Loja Norte,Teclado,Informática,7.0,142.03
+2025-03-05,Loja Sul,Mouse,Informática,5.0,79.1
+2025-06-08,Loja Sul,Fone Bluetooth,Eletrônicos,8.0,231.07
+2025-03-29,Loja Centro,Liquidificador,Eletrodomésticos,6.0,239.38
+2025-08-21,Loja Sul,Cafeteira,Eletrodomésticos,10.0,435.45
+2025-08-18,Loja Leste,Smartphone,Eletrônicos,6.0,2097.75
+2025-07-04,Loja Centro,Liquidificador,Eletrodomésticos,5.0,261.39
+2025-05-25,Loja Norte,Monitor,Informática,7.0,963.58
+2025-07-13,Loja Centro,Monitor,Informática,4.0,866.1
+2025-03-29,Loja Leste,Smart TV,Eletrônicos,6.0,2752.57
+2025-10-01,Loja Norte,Smartphone,Eletrônicos,5.0,2192.09
+2025-09-13,Loja Norte,Mochila,Moda,13.0,177.55
+2025-05-15,Loja Sul,Fone Bluetooth,Eletrônicos,6.0,240.04
+2025-03-13,Loja Leste,Notebook,Informática,9.0,2994.37
+2025-11-06,Loja Sul,Monitor,Informática,3.0,905.79
+2025-10-07,Loja Norte,Notebook,Informática,5.0,3099.64
+2025-11-01,Loja Leste,Mouse,Informática,7.0,74.21
+2025-09-13,Loja Norte,Tênis,Moda,5.0,335.51
+2025-10-11,Loja Norte,Camiseta,Moda,3.0,99.18
+2025-10-08,Loja Centro,Mouse,Informática,5.0,75.57
+2025-05-25,Loja Sul,Mochila,Moda,10.0,198.21
+2025-02-17,Loja Centro,Teclado,Informática,7.0,139.52
+2025-03-09,Loja Norte,Mouse,Informática,6.0,88.93
+2025-10-15,Loja Sul,Fone Bluetooth,Eletrônicos,6.0,282.42
+2025-10-13,Loja Sul,Monitor,Informática,9.0,838.2
+2025-01-17,Loja Leste,Mouse,Informática,4.0,84.19
+2025-10-01,Loja Sul,Smart TV,Eletrônicos,8.0,2887.02
+2025-06-15,Loja Leste,Notebook,Informática,8.0,3200.51
+2025-09-21,Loja Centro,Monitor,Informática,11.0,835.95
+2025-12-02,Loja Sul,Monitor,Informática,5.0,939.25
+2025-07-25,Loja Norte,Camiseta,Moda,5.0,
+2025-04-19,Loja Centro,Smart TV,Eletrônicos,4.0,2547.34
+2025-07-13,Loja Norte,Liquidificador,Eletrodomésticos,8.0,219.31
+2025-01-22,Loja Norte,Camiseta,Moda,6.0,84.83
+2025-07-31,Loja Centro,Mouse,Informática,4.0,85.66
+2025-07-12,Loja Leste,Liquidificador,Eletrodomésticos,10.0,214.92
+2025-07-31,Loja Leste,Monitor,Informática,6.0,906.15
+2025-11-18,Loja Leste,Teclado,Informática,6.0,147.04
+2025-04-23,Loja Norte,Cafeteira,Eletrodomésticos,7.0,384.66
+2025-01-19,Loja Norte,Fone Bluetooth,Eletrônicos,7.0,233.06
+2025-02-01,Loja Sul,Fone Bluetooth,Eletrônicos,7.0,261.99
+2025-09-02,Loja Norte,Smart TV,Eletrônicos,6.0,2428.53
+2025-12-03,Loja Sul,Notebook,Informática,5.0,3162.09
+2025-02-08,Loja Leste,Camiseta,Moda,8.0,95.3
+2025-03-03,Loja Norte,Mochila,Moda,5.0,173.35
+2025-10-02,Loja Leste,Notebook,Informática,9.0,3599.06
+2025-12-28,Loja Norte,Camiseta,Moda,8.0,93.03
+2025-09-05,Loja Sul,Tênis,Moda,5.0,259.46
+2025-05-02,Loja Centro,Tênis,Moda,3.0,294.09
+2025-04-04,Loja Sul,Mochila,Moda,2.0,170.04
+2025-04-11,Loja Leste,Notebook,Informática,6.0,3462.17
+2025-08-17,Loja Leste,Mouse,Informática,5.0,81.18
+2025-01-05,Loja Centro,Liquidificador,Eletrodomésticos,7.0,243.34
+2025-02-08,Loja Norte,Fone Bluetooth,Eletrônicos,3.0,237.88
+2025-09-17,Loja Sul,Tênis,Moda,6.0,303.39
+2025-11-12,Loja Centro,Smart TV,Eletrônicos,7.0,2938.68
+2025-06-16,Loja Sul,Camiseta,Moda,6.0,99.19
+2025-01-25,Loja Leste,Notebook,Informática,6.0,3462.89
+2025-08-13,Loja Centro,Mochila,Moda,7.0,155.24
+2025-09-23,Loja Norte,Cafeteira,Eletrodomésticos,7.0,377.17
+2025-12-11,Loja Centro,Monitor,Informática,5.0,880.91
+2025-04-24,Loja Centro,Smartphone,Eletrônicos,10.0,2127.61
+2025-06-23,Loja Sul,Fone Bluetooth,Eletrônicos,4.0,264.96
+2025-06-15,Loja Centro,Teclado,Informática,4.0,159.0
+2025-06-10,Loja Norte,Smartphone,Eletrônicos,3.0,2364.61
+2025-05-03,Loja Norte,Monitor,Informática,5.0,965.08
+2025-05-24,Loja Leste,Smartphone,Eletrônicos,5.0,2262.15
